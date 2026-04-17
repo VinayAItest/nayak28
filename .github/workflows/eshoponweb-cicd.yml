@@ -6,7 +6,7 @@ on: [push, workflow_dispatch]
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
   RESOURCE-GROUP: rg-nayak28
-  LOCATION: South India
+  LOCATION:
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 5e445ad6-3cbb-4c06-b4aa-4429e91115d2
   WEBAPP-NAME: Microsoft.Web
