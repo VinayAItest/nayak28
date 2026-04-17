@@ -9,7 +9,7 @@ env:
   LOCATION: southindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 5e445ad6-3cbb-4c06-b4aa-4429e91115d2
-  WEBAPP-NAME: Microsoft.Web
+  WEBAPP-NAME: eshoponwebapnnayak28
 
 jobs:
   #Build, test and publish .net web project in repository
