@@ -6,10 +6,10 @@ resources:
       trigger: none
 
 variables:
-  azureServiceConnection: 'azure subs'
+  azureServiceConnection: 'a78ee3d8-7299-436d-b245-dafcde1f1f52'
   resourceGroup: 'rg-az400-container-NAME'
   location: 'centralus'
-  subscriptionId: 'YOUR-SUBSCRIPTION-ID'
+  subscriptionId: '5e445ad6-3cbb-4c06-b4aa-4429e91115d2'
 
 stages:
 - stage: Deploy
